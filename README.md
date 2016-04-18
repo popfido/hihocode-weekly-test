@@ -1,2 +1,2 @@
-hihocode-weekly-test
+Hihocode-weekly-test
 ====================
